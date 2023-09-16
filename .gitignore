@@ -1,0 +1,5 @@
+config_management/box_puppet
+config_management/box_chef
+config_management/box_ansible
+*.rpm
+
